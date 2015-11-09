@@ -1,0 +1,26 @@
+{
+  "name": "breve",
+  "version": "0.1.0",
+  "description": "Simple JavaScript templates",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcinarli/breve.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "template"
+  ],
+  "author": "Bilal Cinarli <bcinarli@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bcinarli/breve/issues"
+  },
+  "homepage": "https://github.com/bcinarli/breve#readme"
+}
